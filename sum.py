@@ -8,4 +8,4 @@ sum = num1 + num2 + num3
 product = num3*num2
 # printing values
 print("Sum of", num1, "and", num2 , "is", sum)
-print(product)
+print("product of 10 and 90 is", product)
